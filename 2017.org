@@ -1,0 +1,52 @@
+#+TITLE: Time sheets of VLEAD for year 2017
+#+AUTHOR: VLEAD
+#+DATE: [2017-01-01 Sun]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+Weekly timesheets of VLEAD staff for the year 2017.
+
+* Week1: 01-Jan-2017 to 07-Jan-2017
+
+* heading
+** subheading
+ - points
+  + subpoints
+ctlr + x + h --select all
+alt + w -- copy
+ctrl + y -- paste
+ctrl + w --cut
+ctrl + a -- home
+ctrl + e -- end of the line
+alt + f -- forward of the word
+alt + b ---backward of the word
+ctrl + shift + _ ----undo
+ctrl + x + f --- finding of the file or open existing file
+ctrl + x + s -- save the file
+ctrl + k -- kill the line
+ctrl + space -- select area or lines
+ctrl + c + shift + | ---- creating table for existing data.
+
+
+| S.No. | Emp ID | Name of the Employee       | Total no.of Days | No.of  Present days | No.of Leave/ Absent days | No.of Holidays | Out on Duty | Total Hours |
+|     1 | VL001  | THIRUMAL RAVULA            |                7 |                   5 |                        0 |              2 |           0 |    40:34:00 |
+|     2 | VL002  | MADHAVI PULIRAJU           |                7 |                   5 |                        0 |              2 |           0 |    44:30:00 |
+|     3 | VL003  | SRIPATHI KAMMARI           |                7 |                   5 |                        0 |              2 |           0 |    45:19:00 |
+|     4 | VL004  | SIVA SHANKER NARIMALLA     |                7 |                   6 |                        0 |              1 |           0 |    50:46:00 |
+|     5 | VL005  | SRAVANTHI BATTLAPENUMARTHI |                7 |                 3.5 |                      1.5 |              2 |           0 |    26:07:00 |
+|     6 | VL006  | SANCHITA DIXIT             |                7 |                   4 |                        1 |              2 |           0 |    36:16:00 |
+|     7 | VL007  | PRIYA RAMACHANDRAN         |                7 |                   5 |                        0 |              2 |           0 |    18:27:00 |
+|     8 | VL008  | SRAVANTHI MODEPU           |                7 |                   4 |                        1 |              2 |           0 |    34:51:00 |
+|     9 | VL009  | SADHANA REDDY              |                7 |                   4 |                        1 |              2 |           0 |    32:28:00 |
+|    10 | VL010  | ASHAY MAHESHWARI           |                7 |                   6 |                        0 |              1 |           0 |    52:38:00 |
+|    11 | VL011  | LALIT MOHAN SANAGAVARAPU   |                7 |                   5 |                        1 |              1 |           0 |    21:42:00 |
+|    12 | VL012  | REKHA SINGHAL              |                7 |                   2 |                        3 |              2 |           0 |    10:43:00 |
+|    13 | VL013  | PVS MARUTHI RAO            |                7 |                   1 |                        4 |              2 |           0 |     6:06:00 |
+|    14 | VL014  | RAGHUPATHI                 |                7 |                   5 |                        0 |              2 |           0 |    45:19:00 |
+|    15 | VL015  | P.RAVI SHANKAR             |                7 |                   7 |                        0 |              0 |           0 |    41:41:00 |
+|    16 | VL016  | B.RAVIKIRAN                |                7 |                   5 |                        1 |              1 |           0 |    39:45:00 |
+|    17 | VL017  | BALAMMA BOYA               |                7 |                   5 |                        0 |              2 |           0 |    44:56:00 |
+|    18 | VL018  | REENA R.MADAMWAR           |                7 |                 4.5 |                      0.5 |              2 |           0 |    40:13:00 |
